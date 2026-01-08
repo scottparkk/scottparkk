@@ -1,6 +1,6 @@
 # 🏂 Scott Park
 
-I'm a full-stack developer and artist, blending my experience in coding with an creative edge to bring dynamic ideas to life. As a UCLA Computer Science undergraduate set to graudate in June 2025, I thrive on exploring every stage of development— from my first spark of a concept to the final product. I am very eager to expand my skillset, collaborate with forward-thinking teams, and bring creative flair into the work I do. 
+I'm a full-stack developer and artist, blending my experience in coding with an creative edge to bring dynamic ideas to life. I thrive on exploring every stage of development— from my first spark of a concept to the final product. I am very eager to expand my skillset, collaborate with forward-thinking teams, and bring creative flair into the work I do. 
 ### Interested Fields
 
 [![Software Development Badge](https://img.shields.io/badge/Software_Development-1e6091?style=for-the-badge&logo=htmx&logoColor=white)](#)
